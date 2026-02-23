@@ -18,12 +18,12 @@
 
 ## 👩‍💻 About Me
 
-I'm a final year Computer Science student with a passion for building things and solving real problems with code. I'm currently on a focused journey into **AI and Machine Learning** — working through backend development, MLOps, and deep learning to be internship-ready by mid-2026.
+I'm a final year Computer Science student with a passion for building things and solving real problems with code. I'm currently on a focused journey into **AI and Machine Learning**, working through backend development, MLOps, and deep learning to be internship-ready by mid-2026.
 
 - 🎓 Studying at **IU International University of Applied Sciences**, graduating 2026
 - 🤖 Goal: Land an **AI/ML internship** and build real-world intelligent systems
 - 🌱 Currently learning: **FastAPI, Docker, and Machine Learning fundamentals**
-- 💡 I enjoy turning ideas into working projects — from CLI tools to web apps
+- 💡 I enjoy turning ideas into working projects 
 
 ---
 
@@ -47,7 +47,7 @@ I'm a final year Computer Science student with a passion for building things and
 
 ## 📚 Currently Learning
 
-I'm following a structured 3-month roadmap to become AI/ML internship ready:
+I'm following a structured 3-month roadmap to become AI/ML proficient:
 
 | Phase | Topics | Status |
 |-------|--------|--------|
