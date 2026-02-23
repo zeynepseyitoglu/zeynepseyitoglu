@@ -68,7 +68,7 @@ I'm following a structured 3-month roadmap to become AI/ML internship ready:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepseyitoglu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepseyitoglu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center"><i>"The best way to learn is to build."</i></p>
