@@ -60,7 +60,7 @@ I'm following a structured 3-month roadmap to become AI/ML internship ready:
 ## 📬 Get in Touch
 
 <p>
-  <a href="https://www.linkedin.com/in/zeynep-seyitoğlu-7028a5196">
+  <a href="https://www.linkedin.com/in/zeynep-seyitoglu-7028a5196/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
